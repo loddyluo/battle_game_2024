@@ -7,4 +7,5 @@ int main() {
   battle_game::AppSettings app_settings;
   battle_game::App app(app_settings, &game_core);
   app.Run();
+  //edit something
 }
